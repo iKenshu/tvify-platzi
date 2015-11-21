@@ -51,7 +51,7 @@ body {
 	background-color: white;
 	margin-bottom: 16px;
 	position: relative;
-	transition: all 1s ease;
+	transition: all 1s eas;
 }
 
 .tv-show.liked{
